@@ -1,6 +1,6 @@
-# Rethinking Head Bias in Non-IID Federated Learning: From Representation Fluctuations to Stationary Calibration
+# FedForth: Frozen Representation and Trainable Head with Convergence and Generalization Guarantees for Non-IID Federated Learning
 
-This repository contains the codes of the paper Rethinking Head Bias in Non-IID Federated Learning: From Representation Fluctuations to Stationary Calibration
+This repository contains the codes of the paper FedForth: Frozen Representation and Trainable Head with Convergence and Generalization Guarantees for Non-IID Federated Learning
 
 ## CIFAR-10 Dataset Preparation
 
