@@ -1,6 +1,6 @@
-# FedForth: Frozen Representation and Trainable Head with Convergence and Generalization Guarantees for Non-IID Federated Learning
+# FedForth: A Strong Head-Only Post-Training Baseline with Convergence and Generalization Guarantees for Non-IID Federated Learning
 
-This repository contains the codes of the paper FedForth: Frozen Representation and Trainable Head with Convergence and Generalization Guarantees for Non-IID Federated Learning
+This repository contains the codes of the paper FedForth: A Strong Head-Only Post-Training Baseline with Convergence and Generalization Guarantees for Non-IID Federated Learning
 
 ## CIFAR-10 Dataset Preparation
 
